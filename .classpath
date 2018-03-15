@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/jotm.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/persistence.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring other jars/xapool.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Spring_Jar_Files/Spring Core,Hibernate and SQL/spring core jars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/asm.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/hibernate3.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/jta.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/Hibernate_Jar_Files/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/mysql-connector.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/spring-web-servlet.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar Files/servlet-api.jar/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
